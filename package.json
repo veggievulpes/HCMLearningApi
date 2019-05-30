@@ -1,0 +1,30 @@
+{
+  "name": "hcmlearningapi",
+  "version": "1.0.0",
+  "description": "Oracle Cloud Learning Management Integrator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veggievulpes/HCMLearningApi.git"
+  },
+  "keywords": [
+    "HCM",
+    "Cloud",
+    "Oracle",
+    "Integration",
+    "Learning"
+  ],
+  "author": "Milton Pereira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/veggievulpes/HCMLearningApi/issues"
+  },
+  "homepage": "https://github.com/veggievulpes/HCMLearningApi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.4"
+  }
+}
