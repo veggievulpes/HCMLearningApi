@@ -1,4 +1,4 @@
 node_modules/
-src/
+model.json
+src/util/cred.js
 templates/
-public/
